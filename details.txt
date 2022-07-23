@@ -4,3 +4,4 @@ Email="Santhoshronaldoj@gmail.com",
 Skills="Java ","selenium"
 Education="B.sc"
 Job="Automation tester"
+fav="cricket"
